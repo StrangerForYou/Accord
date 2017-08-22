@@ -1,1 +1,2 @@
 This is branch file,not merge into master.
+I edited.
