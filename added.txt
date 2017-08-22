@@ -4,3 +4,5 @@ I want to merge to Accord-Branch first.
 I want to merge to Accord.
 
 Merge Brach first,master later!
+
+Merge master before brach...
