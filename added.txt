@@ -6,3 +6,5 @@ I want to merge to Accord.
 Merge Brach first,master later!
 
 Merge master before brach...
+
+I'm stranger.Is that ok?
