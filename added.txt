@@ -8,3 +8,6 @@ Merge Brach first,master later!
 Merge master before brach...
 
 I'm stranger.Is that ok?
+
+
+I want merge local Accord-Branch into origin master directly.
