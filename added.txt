@@ -7,14 +7,16 @@ Merge Brach first,master later!
 
 Merge master before brach...
 
-<<<<<<< Updated upstream
+#<<<<<<< Updated upstream
 I'm stranger.Is that ok?
 
 
 I want merge local Accord-Branch into origin master directly.
 
 Stranger contribution....  pull request!
-=======
+#=======
 
 I edited and push.
->>>>>>> Stashed changes
+#>>>>>>> Stashed changes
+
+resove the conflict
