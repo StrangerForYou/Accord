@@ -20,3 +20,5 @@ I edited and push.
 #>>>>>>> Stashed changes
 
 resove the conflict
+
+commit one 
