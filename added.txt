@@ -22,3 +22,5 @@ I edited and push.
 resove the conflict
 
 commit one 
+
+commit two
